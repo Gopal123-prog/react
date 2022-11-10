@@ -1,0 +1,20 @@
+#signin{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(192, 255, 250);
+  margin-top: 150px;
+  margin-right: 350px;
+  margin-left: 350px;
+  border-radius: 25px;
+  box-shadow: 5px 15px 15px;
+}
+#signup{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(192, 255, 250);
+  margin-top: 150px;
+  margin-right: 350px;
+  margin-left: 350px;
+  border-radius: 25px;
+  box-shadow: 5px 15px 15px;
+}
